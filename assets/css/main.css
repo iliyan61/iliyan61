@@ -65,6 +65,44 @@ input::-moz-focus-inner {
 	padding: 0;
 }
 
+.contactLogos {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.textLogos {
+  font-weight: 900;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+#discordTextFix {
+  float: initial;
+}
+#discordLogo {
+  padding-right: 15px;
+  padding-top: 7.5px;
+  padding-bottom: 7.5px;
+  width: 65.75px;
+  height: 75px;
+}
+
+#twitterLogo {
+  padding-right: 2px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  width: 66.078125px;
+  height: 66.078125px;
+}
+
+#emailLogo {
+  padding-right: 1px;
+  padding-top: 0.5px;
+  padding-bottom: 0.5px;
+  width: 66px;
+  height: 66px;
+}
+
 input, select, textarea {
 	-moz-appearance: none;
 	-webkit-appearance: none;
@@ -646,7 +684,7 @@ input, select, textarea {
 
 		.image:before {
 			pointer-events: none;
-			/* background-image: url("../../images/overlay.png"); */
+			background-image: url("../../images/overlay.png");
 			background-color: rgba(19, 21, 25, 0.5);
 			border-radius: 4px;
 			content: '';
@@ -1139,7 +1177,7 @@ input, select, textarea {
 			-webkit-transition-delay: 0.75s;
 			-ms-transition-delay: 0.75s;
 			transition-delay: 0.75s;
-			/* background-image: linear-gradient(to top, rgba(19, 21, 25, 0.5), rgba(19, 21, 25, 0.5)), url("../../images/overlay.png"); */
+			background-image: linear-gradient(to top, rgba(19, 21, 25, 0.5), rgba(19, 21, 25, 0.5)), url("../../images/overlay.png");
 			background-size: auto,
  256px 256px;
 			background-position: center,
