@@ -61,6 +61,52 @@ input::-moz-focus-inner {
 	padding: 0;
 }
 
+.contactLogos {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.textLogos {
+  font-weight: 900;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+#discordTextFix {
+  float: initial;
+}
+#discordLogo {
+  padding-right: 15px;
+  padding-top: 7.5px;
+  padding-bottom: 7.5px;
+  width: 65.75px;
+  height: 75px;
+}
+
+#twitterLogo {
+  padding-right: 2px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  width: 66.078125px;
+  height: 66.078125px;
+}
+
+#emailLogo {
+  padding-right: 1px;
+  padding-top: 0.5px;
+  padding-bottom: 0.5px;
+  width: 66px;
+  height: 66px;
+}
+
+#instagramLogo {
+  padding-right: 1px;
+  padding-top: 0.5px;
+  padding-bottom: 0.5px;
+  width: 66px;
+  height: 66px;
+}
+
 input, select, textarea {
 	-moz-appearance: none;
 	-webkit-appearance: none;
