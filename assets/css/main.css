@@ -103,6 +103,14 @@ input::-moz-focus-inner {
   height: 66px;
 }
 
+#instagramLogo {
+  padding-right: 1px;
+  padding-top: 0.5px;
+  padding-bottom: 0.5px;
+  width: 66px;
+  height: 66px;
+}
+
 input, select, textarea {
 	-moz-appearance: none;
 	-webkit-appearance: none;
