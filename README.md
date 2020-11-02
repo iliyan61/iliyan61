@@ -5,12 +5,13 @@ I'm Iliyan and this is my github. A lot of these repos are random and for person
 checkout my [website](iliyan.dev)
 
 Iliyan Jivraj® 2020
+
 [![Label](icon shield link)](link to site or whatever)
 [![Label](icon shield link)](link to site or whatever)
 [![Label](icon shield link)](link to site or whatever)
 [![Label](icon shield link)](link to site or whatever)
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/iliyan61/iliyan61/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/Maintained-yes-brightgreen)](https://github.com/iliyan61/iliyan61/graphs/commit-activity)
 ![Waste of time](https://img.shields.io/badge/Waste%20of%20time%3F-Yes-blue)
 ![Fucks](https://img.shields.io/badge/Fucks%3F-all%20the%20fucks-ff69b4)
 
