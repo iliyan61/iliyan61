@@ -4,7 +4,7 @@
 [![Discord DM](https://img.shields.io/badge/Discord-DM%20me-red)](https://discordapp.com/users/368367700772388865/)
 
 Hi, 
-I'm Iliyan and this is my github page. A lot of these repos are random and for personal projeects
+I'm Iliyan and this is my github. A lot of these repos are random and for personal projeects or school. Contact me on Discord or Twitter if you want a response some time this century otherwise my emails there I just won't reply too quickly.
 
 checkout my [website](iliyan.dev)
 
