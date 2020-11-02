@@ -9,6 +9,3 @@ I'm Iliyan and this is my github page. A lot of these repos are random and for p
 checkout my website iliyan.dev
 
 Iliyan Jivraj® 2020
-
-beep
-boop
