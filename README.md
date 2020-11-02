@@ -12,5 +12,9 @@ Socials:
 [![Twitter](https://img.shields.io/twitter/follow/iliyan_jivraj?style=social)](https://twitter.com/iliyan_jivraj)
 [![Discord DM](https://img.shields.io/badge/Discord-DM%20me-blueviolet)](https://discordapp.com/users/368367700772388865/)
 
+
+
+> “The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle.” 
+-Steve Jobs
 Iliyan Jivraj® 2020
 
