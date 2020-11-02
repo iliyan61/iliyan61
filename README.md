@@ -3,7 +3,7 @@
 ![Fucks](https://img.shields.io/badge/Fucks%3F-all%20of%20them%3F-ff69b4)
 ![Hotel Trivago](https://img.shields.io/badge/Hotel%3F-TRIVAGO!!!-red)
 
-## Hi, 
+## Hello, World.
 This is my github. A lot of these repos are random and for personal projeects or school. Contact me on Discord or Twitter if you want a response some time this century otherwise my emails there I just won't reply too quickly.
 
 # Checkout my [website](iliyan.dev)
