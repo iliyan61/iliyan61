@@ -7,8 +7,8 @@ Hi,
 I'm Iliyan and this is my github. A lot of these repos are random and for personal projeects or school. Contact me on Discord or Twitter if you want a response some time this century otherwise my emails there I just won't reply too quickly.
 
 checkout my [website](iliyan.dev)
-Socials: 
 
+Socials: 
 [![Twitter](https://img.shields.io/twitter/follow/iliyan_jivraj?style=social)](https://twitter.com/iliyan_jivraj)
 [![Discord DM](https://img.shields.io/badge/Discord-DM%20me-blueviolet)](https://discordapp.com/users/368367700772388865/)
 
