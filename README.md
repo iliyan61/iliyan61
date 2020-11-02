@@ -10,7 +10,7 @@ This is my github. A lot of these repos are random and for personal projeects or
 
 Socials: 
 [![Twitter](https://img.shields.io/twitter/follow/iliyan_jivraj?style=social)](https://twitter.com/iliyan_jivraj)
-[![Discord DM](https://img.shields.io/badge/Discord-DM%20me-blueviolet)](https://discordapp.com/users/368367700772388865/)
+[![Discord DM](https://img.shields.io/badge/Discord-DM%20me-blueviolet)](https://discordapp.com/users/368367700772388865/)\
 
 
 
